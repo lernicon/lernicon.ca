@@ -341,7 +341,7 @@
         </div>
 
         <div>
-          <h4 class="text-xl font-bold text-white">Пора остановится!</h4>
+          <h4 class="text-xl font-bold text-white">Пора остановиться!</h4>
           <p class="mt-2 text-base text-white">
             Скоро открывается набор в 1-2 класс для детей в возрасте 5-7.
             Школа обслуживает следующие районы: East Burnaby, Coquitlam, PoCo, Port Moody, North Surrey.
@@ -435,7 +435,7 @@
                 <path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
               <p class="text-white">
-                Изобразительное искусство
+                Окружающий мир
               </p>
             </li>
             <li class="flex items-start mt-3">
