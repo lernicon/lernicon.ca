@@ -180,7 +180,9 @@ function create_fragment(ctx) {
 
         <div><h4 class="text-xl font-bold text-white">Пора остановится!</h4> 
           <p class="mt-2 text-base text-white">
-            Скоро открывается набор в 1-2 класс для детей в возрасте 5-7. Мы Вас ждём!
+            Скоро открывается набор в 1-2 класс для детей в возрасте 5-7.
+            Школа обслуживает следующие районы: East Burnaby, Coquitlam, PoCo, Port Moody, North Surrey.
+            Мы Вас ждём!
           </p> 
           <ul class="mt-8 text-left"><li class="flex items-start"><svg class="w-6 h-6 mr-3 text-white" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg> 
               <p class="text-white">
