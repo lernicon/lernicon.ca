@@ -1,4 +1,6 @@
-# New project 
+# lernicon.ca
+
+![CI](https://github.com/lernicon/lernicon.ca/workflows/CI/badge.svg)
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
