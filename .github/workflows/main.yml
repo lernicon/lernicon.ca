@@ -14,7 +14,8 @@ jobs:
     - name: prepare environment
       if: github.event.pull_request.merged == true
       run: |
-          echo `git log`
+          git config --list
+          git log
           echo `git show -s --format='%ae' HEAD^2`
           echo "OK"
           git config --local user.email `git show -s --format='%ae' HEAD^2`
