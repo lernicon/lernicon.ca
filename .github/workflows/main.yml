@@ -14,7 +14,7 @@ jobs:
     - name: prepare environment
       if: github.event.pull_request.merged == true
       run: |
-          echo `git show -s --format='%ae' HEAD^2`
+          echo `git log`
           git config --local user.email `git show -s --format='%ae' HEAD^2`
           git config --local user.name `git show -s --format='%an' HEAD^2`
     - name: prepare commit message
