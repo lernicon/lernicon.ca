@@ -178,7 +178,7 @@ function create_fragment(ctx) {
 
       <div class="grid grid-cols-1 md:grid-cols-2 gap-6 items-center mt-8"><div><img src="images/kids.jpg" alt="" class="mx-auto"></div> 
 
-        <div><h4 class="text-xl font-bold text-white">Пора остановится!</h4> 
+        <div><h4 class="text-xl font-bold text-white">Пора остановиться!</h4> 
           <p class="mt-2 text-base text-white">
             Скоро открывается набор в 1-2 класс для детей в возрасте 5-7.
             Школа обслуживает следующие районы: East Burnaby, Coquitlam, PoCo, Port Moody, North Surrey.
@@ -206,7 +206,7 @@ function create_fragment(ctx) {
               </p></li> 
             <li class="flex items-start mt-3"><svg class="w-6 h-6 mr-3 text-white" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg> 
               <p class="text-white">
-                Изобразительное искусство
+                Окружающий мир
               </p></li> 
             <li class="flex items-start mt-3"><svg class="w-6 h-6 mr-3 text-white" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg> 
               <p class="text-white">
