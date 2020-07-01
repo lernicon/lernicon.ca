@@ -33,3 +33,21 @@ Your app is ready to be deployed!
 ### Q: What about Eject?
 
 No eject needed! Snowpack guarantees zero lock-in, and CSA strives for the same.
+
+## Inspired by
+
+### Build tooling
+
+* https://github.com/codechips/svelte-snowpack-testdrive by Ilia Mikhailov
+
+## Attributions
+
+* book-stack-of-three - Icons made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com/).
+* desktop-lamp - Icons made by [catkuro](https://www.flaticon.com/free-icon/lamp_1112097) from [www.flaticon.com](https://www.flaticon.com/).
+* https://www.stockvault.net/photo/129762/school-girl  Creative Commons - CC0
+* https://github.com/getabstractui/fairprice/tree/master/public/images
+* https://en.wikipedia.org/wiki/File:AndrewHallClassroom.jpg
+* table.png https://inance.ru/2019/03/zst-bazarny/
+* kids https://www.flickr.com/photos/58648496@N02/5380522396 Creative Commons - CC0
+* construction.png - Image from [kissclipart.com/](https://www.kissclipart.com/under-construction-png-clipart-construction-clip-a-azwrzo/) Creative Commons - CC0
+* school.jpg - Image [created by brgfx - www.freepik.com](https://www.freepik.com/free-vector/children-car-racing_4931558.htm) - Free for personal and commercial purpose with attribution.
