@@ -1,5 +1,4 @@
 <script>
-  import "./main.css";
   const company = "Lernicon Academy Inc.";
   const email = "info(at)lernicon.ca";
   const message = "Learn Svelte";
