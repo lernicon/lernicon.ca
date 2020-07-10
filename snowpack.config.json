@@ -10,6 +10,5 @@
     "@snowpack/plugin-parcel", [
       "@snowpack/plugin-svelte", { "hydratable": true, "css": false }
     ]
-  ],
-  "plugins": []
+  ]
 }
