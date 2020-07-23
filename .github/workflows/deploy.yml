@@ -1,4 +1,4 @@
-name: CI
+name: Deploy
 
 on:
   pull_request:
@@ -10,13 +10,11 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: prepare environment
-      run: |
-          npm install
-    - name: configure git
       if: github.event.pull_request.merged == true
       run: |
           git config --local user.email "`git show -s --format='%ae' HEAD^2`"
           git config --local user.name "'`git show -s --format='%an' HEAD^2`'"
+          npm install
     - name: prepare commit message
       if: github.event.pull_request.merged == true
       run: |
@@ -25,6 +23,7 @@ jobs:
           echo "from: [${GITHUB_SHA}](github.com/${GITHUB_REPOSITORY}/commit/${GITHUB_SHA})" >> commit_message
           git log --oneline --format=" * %h : %s" $(git merge-base --fork-point master)... >> commit_message
     - name: build
+      if: github.event.pull_request.merged == true
       run: npm run build
     - name: deploy demo
       if: github.event.pull_request.merged == true
