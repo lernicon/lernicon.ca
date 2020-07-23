@@ -1,4 +1,5 @@
 <script>
+  import Tailwindcss from './Tailwindcss.svelte';
   const company = "Lernicon Academy Inc.";
   const email = "info(at)lernicon.ca";
   const message = "Learn Svelte";
