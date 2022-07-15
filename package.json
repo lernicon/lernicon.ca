@@ -21,7 +21,7 @@
     "rollup-plugin-delete": "^2.0.0",
     "rollup-plugin-svelte": "^5.2.3",
     "snowpack": "^2.5.0",
-    "svelte": "^3.23.0",
+    "svelte": "^3.49.0",
     "tailwindcss": "^1.4.6"
   },
   "name": "lernicon.ca",
